@@ -4,7 +4,7 @@
 https://mygamingedge.online/
 
 
-[![SHOWCASE]([https://img.youtube.com/vi/6rKE6_joH8o/0.jpg](https://mygamingedge.online/images/main.webp))](https://www.youtube.com/watch?v=6rKE6_joH8o)
+[![SHOWCASE](https://mygamingedge.online/images/main.webp)](https://www.youtube.com/watch?v=6rKE6_joH8o)
 
 
 
