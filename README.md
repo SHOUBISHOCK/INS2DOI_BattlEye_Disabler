@@ -4,5 +4,7 @@
 https://mygamingedge.online/
 
 
-![preview_doi](https://github.com/user-attachments/assets/3468dcad-d185-4293-bcb9-4a14199ee6be)
-![preview_ins2](https://github.com/user-attachments/assets/9a6f4513-c455-497c-97ee-f52573081130)
+[![SHOWCASE](https://img.youtube.com/vi/6rKE6_joH8o/0.jpg)](https://www.youtube.com/watch?v=6rKE6_joH8o)
+
+
+
