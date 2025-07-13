@@ -26,7 +26,8 @@
 <br clear="both">
 
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SHOUBISHOCK/INS2DOI_BattlEye_Patcher/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SHOUBISHOCK/INS2DOI_BattlEye_Disabler/total)
+
 
 <p align="left">
 NOT compatible with patcher!!!
